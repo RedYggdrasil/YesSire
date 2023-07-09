@@ -1,0 +1,25 @@
+Icons provided under the Creative Commons 3.0 BY or CC0 if mentioned below.
+
+Sources : 
+
+Textures :
+Delapouite, https://delapouite.com  (Creative Commons 3.0 BY) : 
+--> 'amphora'
+--> 'choice'
+--> 'greek-temple'
+--> 'jewel-crown'
+--> 'sextant'
+--> 'thumb-down'
+--> 'thumb-up'
+--> 'vertical-flip'
+Lorc, http://lorcblog.blogspot.com  (Creative Commons 3.0 BY) : 
+--> 'cash'
+--> 'rally-the-trools'
+--> 'shadow-follower'
+
+
+
+Code & everything elses: 
+--> RedYggdrasil
+Everything was done during the game jam except for some #defines shortcuts used for logging purpuses that I developped in others projects.
+Will possibly upload the project source soon.
