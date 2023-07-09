@@ -1,4 +1,4 @@
-# Yes Sire
+# Yes, Sire.
 Source code of my game jam projet form GMTKJam 2023, done alone, with few incons in CC3.0 BY from Delapouite and Lorc, OpenSimplexNoise C++ Port from Rickard Lundberg.
 The whole project is far from perfect but I lacked time and too tired, so there's what I did in those 48h.
 
